@@ -27,7 +27,15 @@ price:'$80',},
 title:'Premium Girls Abaya',
 price:'$80',},
 
-{img:"https://i.pinimg.com/736x/15/ae/31/15ae31564c41978c23063053ea87a19c.jpg",
+{img:"https://i.pinimg.com/1200x/2d/bc/c0/2dbcc04967eb5c946ecfb8ef403e3434.jpg",
+title:'Premium Girls Abaya',
+price:'$80',},
+
+{img:"https://i.pinimg.com/736x/24/f6/6d/24f66ddd7f6b6b75c4c2e6835400a391.jpg",
+title:'Premium Girls Abaya',
+price:'$80',},
+
+{img:"https://i.pinimg.com/736x/31/88/4b/31884b1d23142728b4a847aa445f17dc.jpg",
 title:'Premium Girls Abaya',
 price:'$80',},
 ])
@@ -46,13 +54,13 @@ margin-bottom:40px;
 color:#222;
 }
 
-.products-container{
+/* .products-container{
 display:grid;
 grid-template-columns:repeat(auto-fit,minmax(250px,1fr));
 gap:30px;
 max-width:1100px;
 margin:auto;
-}
+} */
 
 .product-card{
 background:white;

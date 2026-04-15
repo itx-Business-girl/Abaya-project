@@ -46,7 +46,25 @@ font-size:18px;
 line-height:1.7;
 color:#555;
 }
-</style>
+@media (max-width: 768px){
+.about-section{
+display: flex;
+justify-content: flex-start;
+flex-direction: column;
+margin-left: 0px;
+margin-top: 20px;
+padding:0px 25px 10px 25px ; 
+}
+.about-heading{
+font-size: 25px;
+margin-top: 35px;
+}
+.about-text{
+font-size: 15px;
+
+}
+} 
+ </style> 
 
 
 
